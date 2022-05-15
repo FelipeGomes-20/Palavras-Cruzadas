@@ -75,7 +75,7 @@ function verify(){
         td_E10.style = "background-color: blue; color: white; font-weight: bold; border: 2px solid green";
         td_F10.style = "background-color: blue; color: white; font-weight: bold; border: 2px solid green";
 /* html */
-        td_D10.innerHTML = "R"; td_E10.innerHTML = "A"; td_F10.innerHTML = "M";
+        td_D10.innerHTML = "R"; td_E10.innerHTML = "O"; td_F10.innerHTML = "M";
 
     } else if(resposta == "EPROM" && clique == 6) {
         num_question.innerHTML = "7"
