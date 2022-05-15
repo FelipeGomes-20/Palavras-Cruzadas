@@ -1,2 +1,2 @@
 # Palavras-Cruzadas
-Atividade de Arquite
+Atividade de Arquitetura Computacional
