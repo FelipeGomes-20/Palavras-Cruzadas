@@ -159,7 +159,7 @@ function verify(){
         
     } else if(resposta == "DATA BUS" && clique == 12) {
         num_question.innerHTML = "13"
-        pergunta.innerHTML = "Modelo de processador desenvolvido pela Intel qu teve sua primeira versão lançada em setembro de 2009:"
+        pergunta.innerHTML = "Modelo de processador desenvolvido pela Intel que teve sua primeira versão lançada em setembro de 2009:"
 /* estilizacao */
         td_I13.style = "background-color: blue; color: white; font-weight: bold; border: 2px solid green";
         td_J13.style = "background-color: blue; color: white; font-weight: bold; border: 2px solid green";
@@ -173,7 +173,7 @@ function verify(){
         
     } else if(resposta == "I5" && clique == 13) {
         num_question.innerHTML = "14"
-        pergunta.innerHTML = "Modelo de processador desenvolvido pela Intel qu teve sua primeira versão lançada em setembro de 2009:"
+        pergunta.innerHTML = "Modelo de processador desenvolvido pela Intel que teve sua primeira versão lançada em setembro de 2009:"
 /* estilizacao */
         td_F13.style = "background-color: blue; color: white; font-weight: bold; border: 2px solid green";
         td_G13.style = "background-color: blue; color: white; font-weight: bold; border: 2px solid green";
@@ -187,6 +187,7 @@ function verify(){
 /* estilizacao */
         td_Q5.style = "background-color: blue; color: white; font-weight: bold; border: 2px solid green";
         td_R5.style = "background-color: blue; color: white; font-weight: bold; border: 2px solid green";
+        num_question.style = 'color: black;'
 /* html */
         td_Q5.innerHTML = "I"; td_R5.innerHTML = "7";
         
